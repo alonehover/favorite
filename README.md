@@ -14,3 +14,7 @@
 * [Web Design Weekly](http://web-design-weekly.com/) 设计动向和经典作品
 * [WEB TOOLS WEEKLY](http://webtoolsweekly.com/) 最新的开发工具、插件组件等等
 * [RESPONSIVE DESIGN NEWSLETTER](http://responsivedesignweekly.com/) 响应式设计动态、技巧等
+* 
+
+### HTML
+* [常用的meta标签](http://get.jobdeer.com/6483.get)
