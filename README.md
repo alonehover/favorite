@@ -18,3 +18,7 @@
 
 ### HTML
 * [常用的meta标签](http://get.jobdeer.com/6483.get)
+
+
+### 兼容
+* [canvas兼容<=ie8](https://github.com/arv/explorercanvas)
