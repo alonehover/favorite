@@ -22,3 +22,7 @@
 
 ### 兼容
 * [canvas兼容<=ie8](https://github.com/arv/explorercanvas)
+* [JSON.parse](https://github.com/douglascrockford/JSON-js)
+
+### 插件
+* [进度条](http://usablica.github.io/progress.js/)
