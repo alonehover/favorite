@@ -26,3 +26,6 @@
 
 ### 插件
 * [进度条](http://usablica.github.io/progress.js/)
+
+### 其他
+* [EC6浏览器兼容性检测](http://ruanyf.github.io/es-checker/index.cn.html)
